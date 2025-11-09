@@ -25,5 +25,5 @@ Practice using **JSX**, **Functional Components**, **Props**, and **Styling** in
 - **Inline CSS**
 
 ---
-
+![Greeting App Preview](src/assets/profile.png) 
 
