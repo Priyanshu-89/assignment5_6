@@ -1,4 +1,4 @@
 ## **Assignment 6: Create a Mini Greeting App**
 
-![Greeting App Preview](src/assets/greeting.png)
+![Todo greeting app preview](src/assets/greeting.png) 
 
