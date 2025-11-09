@@ -25,4 +25,5 @@ Practice combining **JSX**, **Functional Components**, **Props**, **Styling**, a
 
 ---
 
+![Greeting App Preview](src/assets/greeting.png) 
 
