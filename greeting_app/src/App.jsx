@@ -6,7 +6,7 @@ function App() {
     flexWrap: "wrap",
     justifyContent: "center",
     alignItems: "center",
-    minHeight: "100vh",
+    minHeight: "97vh",
     backgroundColor: "#f0f0f0",
   };
 
