@@ -1,4 +1,4 @@
-## **Assignment 6: Create a Profile Card**
+## **Assignment 5: Create a Profile Card**
 
 ## **Assignment 6: Create a Mini Greeting App**
 
